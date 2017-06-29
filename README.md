@@ -1,7 +1,7 @@
 # hyuk
 
 # Start
-git clone https://github.com/an2416/hyuk
+git clone https://github.com/an2416/hyuk \n
 cd {Your project path}/hyuk
 npm install
 
