@@ -1,0 +1,6 @@
+git status
+git add 원하는파일or폴더이름
+git commit -m "원하는내용"
+git remote add origin https://github.com/an2416/kwanghyuk_BOJ.git
+git remote -v
+git push origin master
